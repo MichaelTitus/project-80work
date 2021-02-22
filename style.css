@@ -1,0 +1,27 @@
+input{
+    margin:10px;
+}
+
+button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#buttonsort{
+    display:none;
+}
+
+#displayNamewithcommas{
+border: 1px solid red;
+padding:10px;
+background-color: teal;
+border-radius: 10px;
+width: 50%;
+}
+
+#displayNamewithoutcommas{
+    border: 1px solid green;
+    padding:10px;
+    background-color: aqua;
+    border-radius: 10px;
+    width: 50%;
+    }
